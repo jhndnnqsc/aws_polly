@@ -23,7 +23,7 @@ Synthesize text and get resultant audio file. The arguement has the following fi
 Example
 
 ```
-polly = require("awspolly")
+polly = require("aws-polly")
 json = require('rapidjson')
 fileName = "test.mp3"  
 

@@ -1,6 +1,6 @@
 # AWS Polly module
 
-### _Module for text to speech using sending email using https://aws.amazon.com/polly/
+### _Module for text to speech using using https://aws.amazon.com/polly/
 
 ### `DefaultLanguage`
 Default language to use - `"en-US"`
